@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html build\\web\\manifest.json:  C:\\Users\\led51\\agrago\\web\\favicon.png C:\\Users\\led51\\agrago\\web\\icons\\Icon-192.png C:\\Users\\led51\\agrago\\web\\icons\\Icon-512.png C:\\Users\\led51\\agrago\\web\\index.html C:\\Users\\led51\\agrago\\web\\manifest.json
